@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "OlafurJens-Login": {
+            "applicationId": "GuomU9Y73lNzxF7tTZ246mf1jPEJCJQwiEKmd7Us", 
+            "masterKey": "R5mHeHeI7X0iZhr5EWb9XdmiyjyNSFihRgevtdlq"
+        }, 
+        "_default": {
+            "link": "OlafurJens-Login"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}
